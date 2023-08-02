@@ -1,2 +1,2 @@
-# -QueraSolutions
+# QueraSolutions
 Some solutions for Quera questions.
